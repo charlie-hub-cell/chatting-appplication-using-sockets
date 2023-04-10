@@ -1,1 +1,1 @@
-# chatting-appplication-using-sockets
+# chatting-application-using-sockets
